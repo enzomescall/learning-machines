@@ -21,6 +21,7 @@ dependencies = [
     "ipywidgets>=8.1",
     "datasets>=2.20",
     "transformers>=4.44",
+    "fastf1>=3.8.3",
 ]
 
 [tool.uv]
